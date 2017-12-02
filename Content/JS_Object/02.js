@@ -4,10 +4,10 @@ function AddItemToExistingList() {
     var NoOfItems = list.length;
 
     list[NoOfItems] = document.getElementById("txtValue").value;
-    DisplayResults();
+    Display();
 }
 
-function DisplayResults() {
+function Display() {
     var n = list.length;
     document.getElementById("ItemCount").innerHTML = "Count of items added: " + n.toString();
 
