@@ -3,7 +3,10 @@ JavaScript Objects
 
 ![](Images/JS.png)
 
-<p>Review JavaScript Objects in advance to review about following items</p>
+```
+Review JavaScript Objects in advance to review about following items
+```
+
 * Creating initializing JavaScript Objects
 * Constructor functions (JavaScript classes)
 * Methods in JavaScript objects
