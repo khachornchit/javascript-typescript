@@ -1,4 +1,4 @@
 JavaScript Objects Review
 =========================
 
-()[images]/js.png
+![](images/js.png)
