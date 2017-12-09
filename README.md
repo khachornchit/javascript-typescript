@@ -13,3 +13,5 @@ JavaScript Objects
 * Public and Private members
 * Nesting objects
 * Callback Functions, etc.
+
+[Pluto Solutions](http://www.plutosols.com)
