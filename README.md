@@ -1,5 +1,5 @@
 # JavaScript ES6 / ES2015
-Review JavaScript ES6/ES2015 about modern syntax, ES5 compatibility, scalability, Babel JavaScript compiler, declaration with let and const, classes and inheritance template strings, string features, math and number features, new data structures, iterators, generators, promises and asynchronuous data, and arrow functions.
+To review JavaScript ES6/ES2015 about modern syntax, ES5 compatibility, scalability, Babel JavaScript compiler, declaration with let and const, classes and inheritance, template strings, string features, math and number features, new data structures, iterators, generators, promises and asynchronous data, and arrow functions.
 
 * Modern Syntax
 * ES5 Compatibility and fix some issues from ES5
