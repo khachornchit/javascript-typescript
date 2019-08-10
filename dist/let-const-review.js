@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 function testVar() {
     console.log("Test var ...");
@@ -12,10 +12,10 @@ function testVar() {
 
 function testLet() {
     console.log("Test let ...");
-    let a = 30;
+    var a = 30;
     if (true) {
-        let a = 50;
-        console.log(a);
+        var _a = 50;
+        console.log(_a);
     }
     console.log(a);
 }
@@ -23,10 +23,10 @@ function testLet() {
 testVar();
 testLet();
 
-const colors = [];
+var colors = [];
 colors.push('red');
 colors.push('blue');
 
-colors = "Green";
+// colors = "Green";
 
 console.log(colors);
