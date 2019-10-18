@@ -1,0 +1,7 @@
+language: javascript
+jobs:
+  include:
+    - stage: install
+      script: yarn install
+    - stage: build
+      script: yarn build
