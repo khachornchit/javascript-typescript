@@ -7,6 +7,7 @@ JavaScript ES6/ES2015 about modern syntax, ES5 compatibility, scalability, Babel
 * ES5 Compatibility and fix some issues from ES5
 * Scalability
 * Babel JavaScript ES6 Compiler
+* Webpack
 
 ## Overview
 * Declaration with let and const
