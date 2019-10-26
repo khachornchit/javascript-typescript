@@ -7,7 +7,6 @@ JavaScript ES6/ES2015 about modern syntax, ES5 compatibility, scalability, Babel
 * JavaScript ES6/ES2015
 * Babel JavaScript ES6 Compiler
 * Webpack
-* CICD Integration
 
 ## Overview
 * ES5 Compatibility and fix some issues from ES5
