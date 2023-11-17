@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/Khachornchit/JavaScript-TypeScript.svg?branch=master)](https://travis-ci.org/Khachornchit/JavaScript-TypeScript)
-
 # TypeScript Advantage
 
 ## [Static Typing](ts/src/advantage/StaticTyping.ts)
