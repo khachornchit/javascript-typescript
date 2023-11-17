@@ -5,7 +5,7 @@
 // called a Generator. When a value is consumed by calling the generator's next method, 
 // the Generator function executes until it encounters the yield keyword.
 
-function *g1() {
+function* g1() {
     console.log('Hello');
     yield 'yield 1 ran ...';
     console.log('world');

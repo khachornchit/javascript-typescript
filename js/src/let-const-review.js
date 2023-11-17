@@ -2,11 +2,9 @@
 
 function testVar() {
     console.log("Test var ...");
-    var a = 30;
-    if (true) {
-        var a = 50;
-        console.log(a);
-    }
+    let a = 30;
+    a = 50;
+    console.log(a);
     console.log(a);
 }
 

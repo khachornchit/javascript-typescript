@@ -20,14 +20,6 @@
   "scripts": {
     "build": "webpack -p"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Khachornchit/JavaScript-ES6-ES2015.git"
-  },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Khachornchit/JavaScript-ES6-ES2015/issues"
-  },
-  "homepage": "https://github.com/Khachornchit/JavaScript-ES6-ES2015#readme"
+  "license": ""
 }

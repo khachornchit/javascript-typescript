@@ -1,8 +1,10 @@
+// js/webpack.config.js
+
 const path = require('path');
 const rules = [
     {
         test: /\.js?/,
-        exclude: /node_moduels/,
+        exclude: /node_modules/, // Fix typo here
         loader: 'babel-loader'
     }
 ]
@@ -10,7 +12,7 @@ const rules = [
 module.exports = {
     target: 'web',
     mode: 'development',
-    entry: { 
+    entry: {
         arrowFunction: './src/arrow-function.js',
         classesInheritance: './src/classes-inheritance.js',
         defaultParamsSpreadOperators: './src/default-params-spread-operators.js',
@@ -23,7 +25,7 @@ module.exports = {
         templateLiterals: './src/template-literals.js'
     },
     output: {
-        path : path.resolve(__dirname, 'build'),
+        path: path.resolve(__dirname, 'build'),
         filename: '[name].js',
     },
     module: {

@@ -8,7 +8,7 @@ console.log("string.startsWith('Hello') : " + string.startsWith('Hello'));
 console.log("string.endsWith('!')       : " + string.endsWith('!'));
 console.log("string.includes('string')  : " + string.includes('string'));
 
-// General numnber function
+// General number function
 // Hex
 console.log('0xFA   = ' + 0xFA);
 console.log('0b1010 = ' + 0b1010);
