@@ -1,6 +1,14 @@
-language: javascript
+# .travis.yml
+
+language: node_js
+
+node_js:
+  - "16.9.1"
+
 jobs:
   include:
     - stage: build
-      before_script: yarn install
+      before_script:
+        - cd js
+        - yarn install
       script: yarn build
